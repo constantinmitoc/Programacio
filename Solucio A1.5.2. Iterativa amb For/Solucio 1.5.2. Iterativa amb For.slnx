@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="Ex 02/Ex 02.csproj" />
+  <Project Path="Ex 03/Ex 03.csproj" />
+  <Project Path="Ex 04/Ex 04.csproj" Id="9122b5b1-3a9f-415c-bc47-a28fb8063102" />
+  <Project Path="Ex 05/Ex 05.csproj" Id="07190669-b5f7-495b-8966-3b7c7071f4ea" />
+  <Project Path="Ex 06/Ex 06.csproj" Id="aefa7a0f-7abd-4d90-af9c-ce0e90a744a1" />
+  <Project Path="Ex 07/Ex 07.csproj" Id="c81d60e1-1f54-41d3-9bcc-f6a52b173b12" />
+  <Project Path="Ex 08/Ex 08.csproj" Id="dc74826d-85c0-4966-822d-f4c56e0f6a0d" />
+  <Project Path="Ex 09/Ex 09.csproj" Id="ff3e6a11-7784-4210-82d1-c1480b0e076d" />
+  <Project Path="Ex 10/Ex 10.csproj" Id="54971333-3fed-4022-b7a7-b83df6154fb7" />
+  <Project Path="Ex 11/Ex 11.csproj" Id="83671058-5c1a-4349-83cb-ba1cadb547d8" />
+  <Project Path="Ex 12/Ex 12.csproj" Id="ed37e687-55d5-4530-8903-68791cbb27db" />
+  <Project Path="Ex 13/Ex 13.csproj" Id="6cd0e859-fe0a-4ddd-84bd-800c1ece0adb" />
+  <Project Path="Ex 14/Ex 14.csproj" Id="b96fc1c7-8c14-4095-8f44-220f5e0ee2f4" />
+  <Project Path="Ex 15/Ex 15.csproj" Id="2201cba9-00bd-4f03-a49e-67b3a2a8c77b" />
+  <Project Path="Ex 16/Ex 16.csproj" Id="c6fcabaf-c642-4002-85da-ca61931fd83d" />
+  <Project Path="Ex 17/Ex 17.csproj" Id="1f36d6d8-b659-44c2-a79c-cacd7b7f0377" />
+  <Project Path="Ex 18/Ex 18.csproj" Id="95c34f55-118c-4847-8620-4c8a10f475b2" />
+  <Project Path="Ex 19/Ex 19.csproj" Id="49de6c79-9523-49fe-b0bb-b2361e3699f0" />
+  <Project Path="Ex 20/Ex 20.csproj" Id="07795682-8576-4766-9676-03cff5aeb2a7" />
+  <Project Path="Solucio 1.5.2. Iterativa amb For/Ex 01.csproj" />
+</Solution>

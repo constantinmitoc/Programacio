@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="Ex 12/Ex12.csproj" Id="db609768-355e-4a3e-9db9-0d52d994450a" />
+  <Project Path="Ex01/Ex01.csproj" Id="d0c1525f-d548-4c51-b643-72a48dc2874d" />
+  <Project Path="Ex03/Ex03.csproj" />
+  <Project Path="Ex04/Ex04.csproj" />
+  <Project Path="Ex05/Ex05.csproj" />
+  <Project Path="Ex06/Ex06.csproj" Id="4411b1f2-ea40-4ab8-96a9-13957dbae6d1" />
+  <Project Path="Ex07/Ex07.csproj" Id="b92c63ba-87f6-44a2-949b-b1917c960745" />
+  <Project Path="Ex08/Ex08.csproj" Id="da77e0b7-ce85-426e-9fd4-5ff8b2811aca" />
+  <Project Path="Ex09/Ex09.csproj" Id="cffe6d07-598f-419d-a991-754172961415" />
+  <Project Path="Ex10/Ex10.csproj" Id="5d8987a3-8ab7-4e61-bd9b-ebaf23be7dfb" />
+  <Project Path="Ex11/Ex11.csproj" Id="47906168-9001-4fce-ba07-a8c9375b0629" />
+  <Project Path="Ex12/Ex13.csproj" Id="1c00a8e5-fac2-480e-955c-c9b9d08c3de7" />
+  <Project Path="Ex14/Ex14.csproj" Id="a550538e-0087-4564-a5b4-37d95eed2056" />
+  <Project Path="Ex15/Ex15.csproj" Id="b152c54d-e970-4349-bc1b-1572bace5520" />
+  <Project Path="Ex16/Ex16.csproj" Id="5b9f29d4-f361-4a6d-80be-dcdf1d0e8cfe" />
+  <Project Path="Ex17/Ex17.csproj" Id="78f9c93e-0d49-4177-baf0-0876e1c026ea" />
+  <Project Path="Ex18/Ex18.csproj" Id="a564d26b-7cf4-4e86-b92f-345ed4554166" />
+  <Project Path="Extra 1/Extra 1.csproj" Id="f24c0916-904e-4c0c-a0a0-8d8d7e1dfd44" />
+  <Project Path="Extra 2/Extra 2.csproj" Id="71865803-24de-4203-9074-1c060e92a499" />
+  <Project Path="Solucio A1.2/Ex02.csproj" />
+</Solution>

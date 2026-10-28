@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Condicionals/Extra 2 Condicionals.csproj" Id="600134d0-8cbe-4f3d-8abb-f4ef36475cb5" />
+  <Project Path="Ex 01/Ex 01.csproj" />
+  <Project Path="Ex 02/Ex 02.csproj" />
+  <Project Path="Ex 03/Ex 03.csproj" />
+  <Project Path="Ex 04/Ex 04.csproj" Id="ab982dbc-7781-434f-a57f-7163990712bd" />
+  <Project Path="Ex 06/Ex 06.csproj" Id="1610b5e5-7b5b-46c3-8874-c4c75cf61e76" />
+  <Project Path="Expresions Booleanes/Extra 1 Expresions Booleanes.csproj" />
+  <Project Path="Extra 3 Condicionals 2/Extra 3 Condicionals 2.csproj" Id="af82176b-78d0-4912-8ab6-979379d62076" />
+  <Project Path="Extra 4 Condicionals 3/Extra 4 Condicionals 3.csproj" Id="e26e519e-b235-4e93-839f-937f3f152fa5" />
+  <Project Path="Extra 5 Condicionals 4/Extra 5 Condicionals 4.csproj" Id="05564bdc-b8bc-4277-a7e4-ddef82e0b3a8" />
+</Solution>

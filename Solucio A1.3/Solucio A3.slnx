@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Ex01/Ex01.csproj" />
+  <Project Path="Ex02/Ex02.csproj" Id="b8f3d733-1735-4a65-b642-2f51a9dc2087" />
+  <Project Path="Ex03/Ex03.csproj" Id="b3e6c95e-21c1-49a1-bb2d-1bc506ba4d3b" />
+  <Project Path="Ex04/Ex04.csproj" Id="ca23ab2f-9c84-4eff-a1eb-ea5977803092" />
+  <Project Path="Ex05/Ex05.csproj" Id="daa3fdfa-2485-402a-8c24-196861c393e6" />
+  <Project Path="Ex06/Ex06.csproj" Id="dc72321f-60b0-4497-b7d3-5949a19ee2a1" />
+  <Project Path="Ex07/Ex07.csproj" Id="edafd407-d6cc-4311-80eb-07b9150743ab" />
+  <Project Path="Ex08/Ex08.csproj" Id="122f8560-959b-4c55-b306-12d1e1f08da6" />
+  <Project Path="Ex09/Ex09.csproj" Id="20167dce-f68d-478e-b3ec-d95650458d6a" />
+  <Project Path="Funcions/Extra 1 Funcions Explicacio.csproj" />
+</Solution>
